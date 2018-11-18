@@ -1,26 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Clangue
 
-You can use the [editor on GitHub](https://github.com/Mercury2699/Clangue/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is a repository to host some code written during the learning process of the C programming language.
 
